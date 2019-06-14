@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/2048/2048",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#E6FCEF",
+    "navigationBarTitleText": "开心2048",
+    "navigationBarTextStyle":"black"
+  }
+}
